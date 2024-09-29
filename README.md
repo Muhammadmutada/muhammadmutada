@@ -1,7 +1,7 @@
 # 🏄‍♂️ MUHAMMAD MU'TADA
 **`student (Developer/service operator)`**
 
-"Halo! Nama saya Mu'tada. Saya seorang mahasiswa yang tertarik dengan pengembangan web, mobile, atau service operator. Saya suka sekali memecahkan masalah kompleks menjadi solusi yang sederhana melalui kode. Pengalaman saya meliputi html.css.javascript. Saat ini, saya sedang fokus pada mempelajari bahasa tersebut"
+"Halo! Nama saya Mu'tada. Saya seorang mahasiswa yang tertarik dengan pengembangan web, mobile, Saya suka sekali memecahkan masalah kompleks menjadi solusi yang sederhana melalui kode. Pengalaman saya meliputi html.css.javascript. Saat ini, saya sedang fokus pada mempelajari bahasa tersebut"
 
 ---
 ### 🧰 Languages and Tools
