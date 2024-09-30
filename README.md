@@ -15,7 +15,7 @@
 #
 ### 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tada15&size_weight=0.5&count_weight=0.5)]
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
